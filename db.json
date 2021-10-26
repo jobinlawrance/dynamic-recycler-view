@@ -1,0 +1,157 @@
+{
+  "dynamic-list": [
+    {
+      "type": "banner",
+      "data": "http://placeimg.com/640/480/nature"
+    },
+    {
+      "type": "quote",
+      "data": {
+        "quote": "To deny people their human rights is to challenge their very humanity.",
+        "author": "Nelson Mandela"
+      }
+    },
+    {
+      "type": "carousel",
+      "data": [
+        {
+          "image-url": "https://placeimg.com/400/280/animals"
+        },
+        {
+          "image-url": "https://placeimg.com/400/280/animals"
+        },
+        {
+          "image-url": "https://placeimg.com/400/280/animals"
+        },
+        {
+          "image-url": "https://placeimg.com/400/280/animals"
+        },
+        {
+          "image-url": "https://placeimg.com/400/280/animals"
+        }
+      ]
+    },
+    {
+      "type": "horizontal-list",
+      "data": [
+        {
+          "name": "Scott Kuphal",
+          "avatar": "https://cdn.fakercloud.com/avatars/kennyadr_128.jpg",
+          "city": "Wichita Falls",
+          "id": "1"
+        },
+        {
+          "name": "Colin Lynch",
+          "avatar": "https://cdn.fakercloud.com/avatars/nilshelmersson_128.jpg",
+          "city": "New Britain",
+          "id": "2"
+        },
+        {
+          "name": "Miss Owen Boyer",
+          "avatar": "https://cdn.fakercloud.com/avatars/IsaryAmairani_128.jpg",
+          "city": "Chicopee",
+          "id": "3"
+        },
+        {
+          "name": "Miss Mark Morar",
+          "avatar": "https://cdn.fakercloud.com/avatars/arindam__128.jpg",
+          "city": "Citrus Heights",
+          "id": "4"
+        },
+        {
+          "name": "Cecilia Kautzer Sr.",
+          "avatar": "https://cdn.fakercloud.com/avatars/doronmalki_128.jpg",
+          "city": "Framingham",
+          "id": "5"
+        },
+        {
+          "name": "Nichole Lind",
+          "avatar": "https://cdn.fakercloud.com/avatars/flashmurphy_128.jpg",
+          "city": "Meriden",
+          "id": "6"
+        },
+        {
+          "name": "Julie Hartmann",
+          "avatar": "https://cdn.fakercloud.com/avatars/pifagor_128.jpg",
+          "city": "Kendall",
+          "id": "7"
+        },
+        {
+          "name": "Gertrude Quitzon",
+          "avatar": "https://cdn.fakercloud.com/avatars/garand_128.jpg",
+          "city": "Bellevue",
+          "id": "8"
+        },
+        {
+          "name": "Alison Hettinger",
+          "avatar": "https://cdn.fakercloud.com/avatars/apriendeau_128.jpg",
+          "city": "Chico",
+          "id": "9"
+        },
+        {
+          "name": "Constance Howell",
+          "avatar": "https://cdn.fakercloud.com/avatars/sircalebgrove_128.jpg",
+          "city": "Schenectady",
+          "id": "10"
+        },
+        {
+          "name": "Edna Jast",
+          "avatar": "https://cdn.fakercloud.com/avatars/kirangopal_128.jpg",
+          "city": "Potomac",
+          "id": "11"
+        },
+        {
+          "name": "Mrs. Janie Schroeder",
+          "avatar": "https://cdn.fakercloud.com/avatars/benjamin_knight_128.jpg",
+          "city": "Sammamish",
+          "id": "12"
+        },
+        {
+          "name": "Mathew Morissette",
+          "avatar": "https://cdn.fakercloud.com/avatars/langate_128.jpg",
+          "city": "Fountain Valley",
+          "id": "13"
+        },
+        {
+          "name": "Tanya Kunze",
+          "avatar": "https://cdn.fakercloud.com/avatars/mymyboy_128.jpg",
+          "city": "Lawrence",
+          "id": "14"
+        },
+        {
+          "name": "Luke Fadel",
+          "avatar": "https://cdn.fakercloud.com/avatars/lhausermann_128.jpg",
+          "city": "Garden Grove",
+          "id": "15"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "data": {
+        "quote": "Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.",
+        "author": "Dalai Lama"
+      }
+    },
+    {
+      "type": "grid",
+      "data": [
+        "https://placeimg.com/220/340/arch",
+        "https://placeimg.com/220/340/arch",
+        "https://placeimg.com/220/340/arch",
+        "https://placeimg.com/220/340/arch"
+      ]
+    },
+    {
+      "type": "banner",
+      "data": "http://placeimg.com/640/480/nature"
+    },
+    {
+      "type": "quote",
+      "data": {
+        "quote": "To deny people their human rights is to challenge their very humanity.",
+        "author": "Nelson Mandela"
+      }
+    }
+  ]
+}
