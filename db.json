@@ -3,7 +3,7 @@
     "data": [
       {
         "type": "banner",
-        "banner-url": "http://placeimg.com/640/480/nature"
+        "banner-url": "https://i.picsum.photos/id/281/900/600.jpg"
       },
       {
         "type": "quote",
@@ -13,10 +13,10 @@
       {
         "type": "carousel",
         "image-urls": [
-          "https://placeimg.com/400/280/animals",
-          "https://placeimg.com/400/280/animals",
-          "https://placeimg.com/400/280/animals",
-          "https://placeimg.com/400/280/animals"
+          "https://i.picsum.photos/id/182/500/500.jpg",
+          "https://i.picsum.photos/id/620/500/500.jpg",
+          "https://i.picsum.photos/id/1040/500/500.jpg",
+          "https://i.picsum.photos/id/786/500/500.jpg"
         ]
       },
       {
@@ -122,15 +122,15 @@
       {
         "type": "grid",
         "grid-urls": [
-          "https://placeimg.com/220/340/arch",
-          "https://placeimg.com/220/340/arch",
-          "https://placeimg.com/220/340/arch",
-          "https://placeimg.com/220/340/arch"
+          "https://i.picsum.photos/id/182/500/500.jpg",
+          "https://i.picsum.photos/id/620/500/500.jpg",
+          "https://i.picsum.photos/id/1040/500/500.jpg",
+          "https://i.picsum.photos/id/786/500/500.jpg"
         ]
       },
       {
         "type": "banner",
-        "banner-url": "http://placeimg.com/640/480/nature"
+        "banner-url": "https://i.picsum.photos/id/530/900/600.jpg"
       },
       {
         "type": "quote",
