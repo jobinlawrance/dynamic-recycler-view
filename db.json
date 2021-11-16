@@ -13,10 +13,10 @@
       {
         "type": "carousel",
         "image-urls": [
-          "https://i.picsum.photos/id/182/500/500.jpg",
-          "https://i.picsum.photos/id/620/500/500.jpg",
-          "https://i.picsum.photos/id/1040/500/500.jpg",
-          "https://i.picsum.photos/id/786/500/500.jpg"
+          "https://loremflickr.com/cache/resized/65535_51257294588_35bcceb35a_z_640_320_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51425101374_fbb9d19c57_z_640_360_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51531099974_dbb8f49bc6_z_640_360_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51248755273_57402ae4ed_z_640_360_nofilter.jpg"
         ]
       },
       {
@@ -122,10 +122,10 @@
       {
         "type": "grid",
         "grid-urls": [
-          "https://i.picsum.photos/id/182/500/500.jpg",
-          "https://i.picsum.photos/id/620/500/500.jpg",
-          "https://i.picsum.photos/id/1040/500/500.jpg",
-          "https://i.picsum.photos/id/786/500/500.jpg"
+          "https://loremflickr.com/cache/resized/65535_51257294588_35bcceb35a_z_640_320_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51425101374_fbb9d19c57_z_640_360_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51531099974_dbb8f49bc6_z_640_360_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51248755273_57402ae4ed_z_640_360_nofilter.jpg"
         ]
       },
       {
