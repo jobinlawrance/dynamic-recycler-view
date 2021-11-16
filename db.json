@@ -3,7 +3,7 @@
     "data": [
       {
         "type": "banner",
-        "banner-url": "http://placeimg.com/640/480/nature"
+        "banner-url": "https://loremflickr.com/cache/resized/65535_51212545511_730aab03ab_z_640_360_nofilter.jpg"
       },
       {
         "type": "quote",
@@ -13,10 +13,10 @@
       {
         "type": "carousel",
         "image-urls": [
-          "https://placeimg.com/400/280/animals",
-          "https://placeimg.com/400/280/animals",
-          "https://placeimg.com/400/280/animals",
-          "https://placeimg.com/400/280/animals"
+          "https://loremflickr.com/cache/resized/65535_51257294588_35bcceb35a_z_640_320_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51425101374_fbb9d19c57_z_640_360_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51531099974_dbb8f49bc6_z_640_360_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51248755273_57402ae4ed_z_640_360_nofilter.jpg"
         ]
       },
       {
@@ -122,15 +122,15 @@
       {
         "type": "grid",
         "grid-urls": [
-          "https://placeimg.com/220/340/arch",
-          "https://placeimg.com/220/340/arch",
-          "https://placeimg.com/220/340/arch",
-          "https://placeimg.com/220/340/arch"
+          "https://loremflickr.com/cache/resized/65535_51257294588_35bcceb35a_z_640_320_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51425101374_fbb9d19c57_z_640_360_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51531099974_dbb8f49bc6_z_640_360_nofilter.jpg",
+          "https://loremflickr.com/cache/resized/65535_51248755273_57402ae4ed_z_640_360_nofilter.jpg"
         ]
       },
       {
         "type": "banner",
-        "banner-url": "http://placeimg.com/640/480/nature"
+        "banner-url": "https://loremflickr.com/cache/resized/65535_51339827695_2e3bd2d693_z_640_360_nofilter.jpg"
       },
       {
         "type": "quote",
