@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/exo2"
+        android:text="@string/grid_title"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/image_one"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/title"
+        app:layout_constraintEnd_toStartOf="@id/image_two"
+        android:layout_marginTop="16dp"
+        android:layout_width="0dp"
+        android:layout_marginEnd="16dp"
+        android:layout_height="200dp"/>
+
+    <ImageView
+        android:id="@+id/image_two"
+        app:layout_constraintStart_toEndOf="@id/image_one"
+        app:layout_constraintTop_toBottomOf="@id/title"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"
+        android:layout_width="0dp"
+        android:layout_height="200dp"/>
+
+    <ImageView
+        android:id="@+id/image_three"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/image_one"
+        app:layout_constraintEnd_toStartOf="@id/image_four"
+        android:layout_marginTop="16dp"
+        android:layout_width="0dp"
+        android:layout_marginEnd="16dp"
+        android:layout_height="200dp"/>
+
+    <ImageView
+        android:id="@+id/image_four"
+        app:layout_constraintStart_toEndOf="@id/image_three"
+        app:layout_constraintTop_toBottomOf="@id/image_one"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"
+        android:layout_width="0dp"
+        android:layout_height="200dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

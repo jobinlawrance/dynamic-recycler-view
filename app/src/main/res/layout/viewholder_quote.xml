@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/exo2"
+        android:text="@string/quote_title"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/quote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/alegreyasans"
+        android:textAlignment="center"
+        android:textSize="32sp"
+        android:textStyle="italic"
+        app:layout_constraintTop_toBottomOf="@id/title"
+        tools:text="''To deny people their human rights is to challenge their very humanity.''" />
+
+    <TextView
+        android:id="@+id/author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/quote"
+        android:fontFamily="@font/alegreyasans"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        tools:text="- Nelson Mandela"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

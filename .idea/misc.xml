@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/font/alegreyasans.xml" value="0.2513888888888889" />
+        <entry key="app/src/main/res/font/exo2.xml" value="0.29444444444444445" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2450657894736842" />
+        <entry key="app/src/main/res/layout/viewholder_banner.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/viewholder_carousel.xml" value="0.2450657894736842" />
+        <entry key="app/src/main/res/layout/viewholder_contact_item.xml" value="0.2450657894736842" />
+        <entry key="app/src/main/res/layout/viewholder_contacts.xml" value="0.2450657894736842" />
+        <entry key="app/src/main/res/layout/viewholder_grid.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/viewholder_quote.xml" value="0.25" />
+        <entry key="app/src/main/res/xml/carousel_scene.xml" value="0.2450657894736842" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11 (2)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

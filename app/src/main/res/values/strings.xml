@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Dynamic Recycler View</string>
+    <string name="grid_title">Grid View</string>
+    <string name="banner_title">Banner</string>
+    <string name="carousel_title">Carousel</string>
+    <string name="quote_title">Quote</string>
+    <string name="contacts_title">Contacts (Nested Recyclerview)</string>
 </resources>
