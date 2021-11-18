@@ -2,6 +2,9 @@ package layout
 
 import android.graphics.drawable.Drawable
 import android.util.Log
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.DataSource
 import com.bumptech.glide.load.engine.GlideException
@@ -17,6 +20,12 @@ import com.jobinlawrance.dynamicrecyclerview.ui.viewholders.BaseViewHolder
  */
 class BannerViewHolder(private val binding: ViewholderBannerBinding) :
     BaseViewHolder<BannerUI>(binding) {
+    companion object {
+        fun createViewHolder(inflater: LayoutInflater, parent: ViewGroup): BannerViewHolder {
+            val binding = ViewholderBannerBinding.inflate(inflater, parent, false)
+            return BannerViewHolder(binding)
+        }
+    }
 
     override fun bind(item: BannerUI) {
         Glide.with(context)

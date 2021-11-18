@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.jobinlawrance.dynamicrecyclerview.data.api.apiService
 import com.jobinlawrance.dynamicrecyclerview.databinding.ActivityMainBinding
 import com.jobinlawrance.dynamicrecyclerview.ui.DynamicListAdapter
+import com.jobinlawrance.dynamicrecyclerview.ui.TypeFactoryImpl
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 
@@ -20,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        adapter = DynamicListAdapter()
+        adapter = DynamicListAdapter(TypeFactoryImpl())
 
         binding.rvDynamic.layoutManager =
             LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
